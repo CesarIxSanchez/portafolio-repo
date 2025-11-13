@@ -4,7 +4,7 @@ import './App.css';
 
 const portfolioData = {
   name: 'César Antonio Ix Sánchez',
-  title: "Estudiante de Licenciatura en Ingeniería de Software",
+  title: "Estudiante de Licenciatura como Ingeniero en Tecnología de Software",
   github: 'https://github.com/CesarIxSanchez',
   phone: '9811812998',
   email: 'al066271@uacam.mx'
